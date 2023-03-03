@@ -10,7 +10,7 @@ Search for thousands of news topics of your interest. A web app created in GoLan
 ### Uses
 * [News API](https://newsapi.org/)
 * [GoDotEnv](https://github.com/joho/godotenv) package
-* [Gorilla Mux].(https://github.com/gorilla/mux) package
+* [Gorilla Mux](https://github.com/gorilla/mux) package
 
 ### Quick Start
 #### Download and install
