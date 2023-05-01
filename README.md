@@ -14,12 +14,12 @@ Search for thousands of news topics of your interest. A web app created in GoLan
 
 ### Quick Start
 #### Download and install
-<pre>go get github.com/ishandeveloper/News-App-Go</pre>
+<pre>go get https://github.com/Abhishek1833/NewsAbhi</pre>
 
 #### Build and Run
 <pre>go build ./News-App-Go/</pre>
 
 
-##### Made with ♥ by <a href="https://github.com/ishandeveloper">Abhishek1833</a>
+##### Made with ♥ by <a href="https://github.com/Abhishek1833/NewsAbhi">Abhishek1833</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https:/https://github.com/Abhishek1833/NewsAbhi)
